@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🪨 : Mortal Code
 
-<!--
-**MortalDEVs-WEB/MortalDEVs-WEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Begginer Full-Stack Developer`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="left">
+ I'm a Polish full-stack developer. I create projects to gain knowledge and bit of exprience. Currently learning React with Typescript and looking for small jobs.</p>
+<br>
+
+---
+
+<h3 align="center">Language and Tools</h3>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,nodejs,nextjs&theme=dark" />
+  </a>
+</p>
+<br>
+
+---
+
+<h3 align="center">Projects</h3>
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/MortalDEVs-WEB/MortalDEVs-WEB">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MortalDEVs-WEB&repo=MortalDEVs-WEB&theme=react" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/MortalDEVs-WEB/MortalDEVs-WEB">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MortalDEVs-WEB&repo=MortalDEVs-WEB&theme=react" />
+    </a>
+</p>
