@@ -37,3 +37,19 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MortalDEVs-WEB&repo=MortalDEVs-WEB&theme=react" />
     </a>
 </p>
+<br>
+
+---
+
+<h3 align="center">Stats</h3>
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/MortalDEVs-WEB/MortalDEVs-WEB">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MortalDEVs-WEB&show_icons=true&theme=react" />
+    </a>
+</p>
+<br>
+
+---
